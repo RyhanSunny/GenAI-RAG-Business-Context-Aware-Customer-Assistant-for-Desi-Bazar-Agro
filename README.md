@@ -1,5 +1,5 @@
 
-# GenAI-RAG Business Context-Aware Customer Assistant for Desi Bazar Agro
+# GenAI + RAG: Business-Context-Aware Customer Assistant for Organic Farm-to-Table Business 
 
 ## Getting Started
 
