@@ -51,7 +51,7 @@ docker-compose up
 
 ### Process Flow
 
-![Process Flow](./images/process-flow.png)
+![Process Flow](./client/img/process_flow.png)
 
 ### Tech Stack
 
